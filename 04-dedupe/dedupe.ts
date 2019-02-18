@@ -1,4 +1,4 @@
-import { dedupe } from './mod.ts';
+import { dedupe } from 'https://raw.githubusercontent.com/Sab94/dedupe/0.0.1/mod.ts';
 
 async function main() {
     var a = [1, 2, 2, 3];
